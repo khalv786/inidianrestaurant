@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace staticindianrestuarant
 {
-    public partial class About : Page
+    public partial class Reservation : Page
     {
         public string firstName;
         public string number;
@@ -20,6 +20,13 @@ namespace staticindianrestuarant
         {
 
         }
+
+        //void submit(Object sender,
+        //                   EventArgs e)
+        //{
+        //    btnSubmit.Enabled = true;
+
+        //}
 
     }
 }

@@ -10,6 +10,6 @@
 namespace staticindianrestuarant {
     
     
-    public partial class Reservation {
+    public partial class WebForm1 {
     }
 }
